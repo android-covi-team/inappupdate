@@ -112,3 +112,23 @@ In order to test this library, you have to follow this steps:
       - Version Code: 2
   4. After new app is ready -> open current app (Version 1.0.0, Version Code 1)
       - in-app-update library will run & notify your new update
+
+## License
+```
+Copyright (c) 2019 COVISOFT INCOPORATION
+
+Author : thongpham95
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+```
