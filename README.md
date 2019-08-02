@@ -3,14 +3,16 @@ Keeping your app up-to-date on your users’ devices enables them to try new fea
 
 ## Flexible Update
 
-![alt text](https://raw.githubusercontent.com/android-covi-team/inappupdate/master/images/Flexible%20Update.png)
+![alt text](https://raw.githubusercontent.com/android-covi-team/inappupdate/master/images/Flexible%20Update%20Scenario.png)
+![alt text](https://raw.githubusercontent.com/android-covi-team/inappupdate/master/images/in-app-updates-flexible-example.jpg)
 
 A user experience that provides background download and installation with graceful state monitoring. This UX is appropriate when it’s acceptable for the user to use the app while downloading the update. For example, you want to urge users to try a new feature that’s not critical to the core functionality of your app. 
 
 
 ## Immediate Update
 
-![alt text](https://raw.githubusercontent.com/android-covi-team/inappupdate/master/images/Immediate%20Update.png)
+![alt text](https://raw.githubusercontent.com/android-covi-team/inappupdate/master/images/Immediate%20Update%20Scenario.png)
+![alt text](https://raw.githubusercontent.com/android-covi-team/inappupdate/master/images/in-app-updates-immediate-example.jpg)
 
 A full screen user experience that requires the user to update and restart the app in order to continue using the app. This UX is best for cases where an update is critical for continued use of the app. After a user accepts an immediate update, Google Play handles the update installation and app restart. 
 
