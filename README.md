@@ -38,9 +38,7 @@ dependencies {
 ```
 **2. Create object UpdateManager in onCreate() method**
 ```
-public class MainActivity extends BaseAppUpdateActivity {
-
-  private UpdateManager mUpdateManager;
+    private UpdateManager mUpdateManager;
 
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
@@ -51,7 +49,6 @@ public class MainActivity extends BaseAppUpdateActivity {
         this, // Observer
         this); // Callback
     }
-}
 ```
 
 **3. Implement methods from callback**
