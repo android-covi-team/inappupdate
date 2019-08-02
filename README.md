@@ -1,0 +1,2 @@
+# inappupdate
+Keeping your app up-to-date on your users’ devices enables them to try new features, as well as benefit from performance improvements and bug fixes. Although some users enable background updates when their device is connected to an unmetered connection, other users may need to be reminded to update. In-app updates is a Play Core library feature that introduces a new request flow to prompt active users to update your app.
