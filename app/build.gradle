@@ -6,8 +6,8 @@ android {
         applicationId "com.covi.coviapp"
         minSdkVersion 21
         targetSdkVersion 28
-        versionCode 13
-        versionName "3.2"
+        versionCode 15
+        versionName "3.5"
     }
     buildTypes {
         release {

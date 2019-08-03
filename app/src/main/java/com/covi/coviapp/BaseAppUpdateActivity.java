@@ -23,7 +23,7 @@ public abstract class BaseAppUpdateActivity extends AppCompatActivity implements
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        mUpdateManager = new UpdateManager(this, UpdateManager.UPDATE_IMMEDIATE, this, this);
+        mUpdateManager = new UpdateManager(this, UpdateManager.UPDATE_FLEXIBLE, this, this);
     }
 
     @Override
